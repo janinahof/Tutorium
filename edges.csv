@@ -1,0 +1,7 @@
+from,to,weight,duration,relationship
+Ego,Melissa,4,3,10
+Ego,Anna,3,2,10
+Ego,Silke,4,3,1
+Ego,Philipp,3,3,2
+Silke,Philipp,4,3,1
+Philipp,Silke,4,3,1
